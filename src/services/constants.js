@@ -8,7 +8,7 @@ export const UPLOAD_PHOTO_FAIL_MESSAGE =
 export const NOT_CONNECT_NETWORK = "NOT_CONNECT_NETWORK";
 
 //export const apiServer = "http://192.168.3.7:60009/";
-export const apiServer = "http://192.168.1.37:60009/";
+export const apiServer = "http://192.168.1.33:60009/";
 //export const apiServer = "http://172.16.0.79:60009/";
 
 export const apiUrl = apiServer + "api/v2";
